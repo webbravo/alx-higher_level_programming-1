@@ -11,3 +11,4 @@ def uppercase(string):
     for character in string:
         string_new += "%c" % to_uper(character)
     print("{:s}".format(string_new))
+    
