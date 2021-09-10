@@ -17,3 +17,9 @@ This folder contains a basic introduction of the python programming language.
 - [101-compile](101-compile) : a script that compiles a Python script file.
 - [102-magic_calculation.py](102-magic_calculation.py) : Python function ```def magic_calculation(a, b):``` that does exactly the same as the given Python bytecode
 - [lists.h](lists.h) : contains the header file used in [10-check_cycle.c](10-check_cycle.c)
+
+## Resources 
+- [Python documentation](https://docs.python.org/3/tutorial/index.html)
+- [Youtube series](https://www.youtube.com/playlist?list=PLGLfVvz_LVvTn3cK5e6LjhgGiSeVlIRwt)
+- [Pycodestyle guide](https://alx-intranet.hbtn.io/rltoken/zbSpP5Q7q3JUCAWDL2z9Wg)
+- [Understanding The Zen of Python](https://www.youtube.com/watch?v=uBHOb55-fBo)
